@@ -1,0 +1,32 @@
+Checking Specifications via the Terminal
+
+====> sudo apt install neofetch
+
+====> neofetch
+
+====> sudo apt install screenfetch
+
+====> screenfetch
+
+====> sudo lshw -short
+
+====> lscpu
+
+====> free -h
+
+====> df -h
+
+====> lspci | grep -i vga  
+
+====> sudo apt install inxi
+
+====> inxi -Fxz
+
+====> hostnamectl
+
+====> lsb_release -a
+
+<!---
+xiaoann20055/xiaoann20055 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->    
